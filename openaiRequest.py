@@ -1,5 +1,5 @@
 import os
-from lib.openAIClient import get_client
+from cglib.openAIClient import get_client
 
 model = os.getenv("OPENAI_MODEL", "gpt-3.5-turbo-1106")
 DEBUG = os.getenv("DEBUG", "false")

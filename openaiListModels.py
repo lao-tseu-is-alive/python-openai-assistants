@@ -1,5 +1,5 @@
 # Description: List all the models available in OpenAI
-from lib.openAIClient import get_client
+from cglib.openAIClient import get_client
 
 # get the client
 client = get_client()

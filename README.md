@@ -32,3 +32,8 @@ source ~/.venvs/openai-assistants-venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
+
+
+## More information
+- [OpenAI API](https://platform.openai.com/docs/quickstart)
+- [Hugging Face Transformers API](https://huggingface.co/docs/transformers/en/installation)
